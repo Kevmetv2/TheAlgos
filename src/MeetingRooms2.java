@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 public class MeetingRooms2 {
     public static void main(String[] args) {
-
+        Interval[] intervals = new Interval[5];
     }
 
     public int meetingRooms(Interval[] intervals){
